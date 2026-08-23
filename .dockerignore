@@ -1,0 +1,12 @@
+.git
+.github
+.venv
+__pycache__
+*.py[oc]
+.ipynb_checkpoints
+.cursor
+
+*.pt
+*.pth
+
+*.mp4

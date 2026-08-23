@@ -1,0 +1,20 @@
+[project]
+name = "traffic-detection"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.12"
+dependencies = [
+    "anywidget>=0.11.0",
+    "jupyter>=1.1.1",
+    "lap>=0.5.13",
+    "onnx>=1.22.0",
+    "onnxruntime>=1.29.0",
+    "onnxslim>=0.1.96",
+    "plotly>=6.9.0",
+    "supervision>=0.30.0",
+    "trackers>=2.6.0",
+    "ultralytics>=8.4.121",
+    "voila>=0.5.12",
+]
